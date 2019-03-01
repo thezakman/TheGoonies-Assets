@@ -2,4 +2,4 @@
 All the assets done for TheGoonies CTF Team.
 
 
-![alt tag](Wallpapers/Poster.jpg)
+![alt tag](Wallpapers/Wallpaper_v3.jpg)
